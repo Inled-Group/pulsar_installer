@@ -1,0 +1,401 @@
+{
+	"BUILD_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/libcalamaresui/calamaresui_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/libcalamaresui",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jgh/Documentos/pulsar_installer/src/libcalamaresui",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/CMakeLists.txt",
+		"/usr/share/cmake-3.25/Modules/GNUInstallDirs.cmake",
+		"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/libcalamaresui.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/jgh/Documentos/pulsar_installer",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/Branding.h",
+			"MU",
+			"EWIEGA46WW/moc_Branding.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/ViewManager.h",
+			"MU",
+			"EWIEGA46WW/moc_ViewManager.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/CppJobModule.h",
+			"MU",
+			"RUACCQ4MTV/moc_CppJobModule.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/ModuleFactory.h",
+			"MU",
+			"RUACCQ4MTV/moc_ModuleFactory.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/ModuleManager.h",
+			"MU",
+			"RUACCQ4MTV/moc_ModuleManager.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/ProcessJobModule.h",
+			"MU",
+			"RUACCQ4MTV/moc_ProcessJobModule.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/PythonJobModule.h",
+			"MU",
+			"RUACCQ4MTV/moc_PythonJobModule.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/ViewModule.h",
+			"MU",
+			"RUACCQ4MTV/moc_ViewModule.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/utils/Gui.h",
+			"MU",
+			"7HEHEGDA3T/moc_Gui.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/utils/ImageRegistry.h",
+			"MU",
+			"7HEHEGDA3T/moc_ImageRegistry.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/utils/Paste.h",
+			"MU",
+			"7HEHEGDA3T/moc_Paste.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/utils/Qml.h",
+			"MU",
+			"7HEHEGDA3T/moc_Qml.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/BlankViewStep.h",
+			"MU",
+			"4DS6FYB4U4/moc_BlankViewStep.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/ExecutionViewStep.h",
+			"MU",
+			"4DS6FYB4U4/moc_ExecutionViewStep.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/QmlViewStep.h",
+			"MU",
+			"4DS6FYB4U4/moc_QmlViewStep.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/Slideshow.h",
+			"MU",
+			"4DS6FYB4U4/moc_Slideshow.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/ViewStep.h",
+			"MU",
+			"4DS6FYB4U4/moc_ViewStep.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/ClickableLabel.h",
+			"MU",
+			"IMAN36LHMA/moc_ClickableLabel.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/ErrorDialog.h",
+			"MU",
+			"IMAN36LHMA/moc_ErrorDialog.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/FixedAspectRatioLabel.h",
+			"MU",
+			"IMAN36LHMA/moc_FixedAspectRatioLabel.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/LogWidget.h",
+			"MU",
+			"IMAN36LHMA/moc_LogWidget.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/PrettyRadioButton.h",
+			"MU",
+			"IMAN36LHMA/moc_PrettyRadioButton.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/TranslationFix.h",
+			"MU",
+			"IMAN36LHMA/moc_TranslationFix.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/WaitingWidget.h",
+			"MU",
+			"IMAN36LHMA/moc_WaitingWidget.cpp",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/waitingspinnerwidget.h",
+			"MU",
+			"IMAN36LHMA/moc_waitingspinnerwidget.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/libcalamaresui/calamaresui_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/libcalamaresui/calamaresui_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"KCOREADDONS_LIB",
+		"QT_CORE_LIB",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x050f00",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICKWIDGETS_LIB",
+		"QT_QUICK_LIB",
+		"QT_SHARED",
+		"QT_SHAREDPOINTER_TRACK_POINTERS",
+		"QT_STRICT_ITERATORS",
+		"QT_SVG_LIB",
+		"QT_WIDGETS_LIB",
+		"UIDLLEXPORT_PRO",
+		"calamaresui_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/jgh/Documentos/pulsar_installer/src/libcalamares",
+		"/home/jgh/Documentos/pulsar_installer/build_new/src/libcalamares",
+		"/home/jgh/Documentos/pulsar_installer",
+		"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui",
+		"/home/jgh/Documentos/pulsar_installer/build_new/src/libcalamaresui",
+		"/usr/include/aarch64-linux-gnu/qt5",
+		"/usr/include/aarch64-linux-gnu/qt5/QtCore",
+		"/usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/aarch64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/KF5/KCoreAddons",
+		"/usr/include/KF5",
+		"/usr/include/aarch64-linux-gnu/qt5/QtGui",
+		"/usr/include/aarch64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/aarch64-linux-gnu/qt5/QtSvg",
+		"/usr/include/aarch64-linux-gnu/qt5/QtQuickWidgets",
+		"/usr/include/aarch64-linux-gnu/qt5/QtQuick",
+		"/usr/include/aarch64-linux-gnu/qt5/QtQmlModels",
+		"/usr/include/aarch64-linux-gnu/qt5/QtQml",
+		"/usr/include",
+		"/usr/include/c++/12",
+		"/usr/include/aarch64-linux-gnu/c++/12",
+		"/usr/include/c++/12/backward",
+		"/usr/lib/gcc/aarch64-linux-gnu/12/include",
+		"/usr/local/include",
+		"/usr/include/aarch64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_EXPORT_PLASMA_DATAENGINE_WITH_JSON",
+		"K_EXPORT_PLASMA_RUNNER",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_CLASS",
+		"K_PLUGIN_CLASS_WITH_JSON"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/libcalamaresui/calamaresui_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/libcalamaresui/CMakeFiles/calamaresui_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/libcalamaresui/CMakeFiles/calamaresui_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/Branding.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/ViewManager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/CppJobModule.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/ModuleFactory.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/ModuleManager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/ProcessJobModule.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/PythonJobModule.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/modulesystem/ViewModule.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/utils/Gui.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/utils/ImageRegistry.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/utils/Paste.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/utils/Qml.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/BlankViewStep.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/ExecutionViewStep.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/QmlViewStep.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/Slideshow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/viewpages/ViewStep.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/ClickableLabel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/ErrorDialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/FixedAspectRatioLabel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/LogWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/PrettyRadioButton.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/TranslationFix.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/WaitingWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/jgh/Documentos/pulsar_installer/src/libcalamaresui/widgets/waitingspinnerwidget.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

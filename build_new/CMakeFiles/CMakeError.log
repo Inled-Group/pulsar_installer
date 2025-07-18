@@ -1,0 +1,38 @@
+Determining if the function ped_file_system_clobber exists failed with the following output:
+Change Dir: /home/jgh/Documentos/pulsar_installer/build_new/CMakeFiles/CMakeScratch/TryCompile-KDoD2u
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_64cbf/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_64cbf.dir/build.make CMakeFiles/cmTC_64cbf.dir/build
+gmake[1]: se entra en el directorio '/home/jgh/Documentos/pulsar_installer/build_new/CMakeFiles/CMakeScratch/TryCompile-KDoD2u'
+Building C object CMakeFiles/cmTC_64cbf.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=ped_file_system_clobber -std=gnu99 -o CMakeFiles/cmTC_64cbf.dir/CheckFunctionExists.c.o -c /home/jgh/Documentos/pulsar_installer/build_new/CMakeFiles/CMakeScratch/TryCompile-KDoD2u/CheckFunctionExists.c
+Linking C executable cmTC_64cbf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_64cbf.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=ped_file_system_clobber CMakeFiles/cmTC_64cbf.dir/CheckFunctionExists.c.o -o cmTC_64cbf 
+/usr/bin/ld: CMakeFiles/cmTC_64cbf.dir/CheckFunctionExists.c.o: en la función `main':
+CheckFunctionExists.c:(.text+0x10): referencia a `ped_file_system_clobber' sin definir
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_64cbf.dir/build.make:99: cmTC_64cbf] Error 1
+gmake[1]: se sale del directorio '/home/jgh/Documentos/pulsar_installer/build_new/CMakeFiles/CMakeScratch/TryCompile-KDoD2u'
+gmake: *** [Makefile:127: cmTC_64cbf/fast] Error 2
+
+
+
+Determining if the function ped_file_system_resize exists failed with the following output:
+Change Dir: /home/jgh/Documentos/pulsar_installer/build_new/CMakeFiles/CMakeScratch/TryCompile-ngoKC2
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_2d48e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_2d48e.dir/build.make CMakeFiles/cmTC_2d48e.dir/build
+gmake[1]: se entra en el directorio '/home/jgh/Documentos/pulsar_installer/build_new/CMakeFiles/CMakeScratch/TryCompile-ngoKC2'
+Building C object CMakeFiles/cmTC_2d48e.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=ped_file_system_resize -std=gnu99 -o CMakeFiles/cmTC_2d48e.dir/CheckFunctionExists.c.o -c /home/jgh/Documentos/pulsar_installer/build_new/CMakeFiles/CMakeScratch/TryCompile-ngoKC2/CheckFunctionExists.c
+Linking C executable cmTC_2d48e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2d48e.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=ped_file_system_resize CMakeFiles/cmTC_2d48e.dir/CheckFunctionExists.c.o -o cmTC_2d48e 
+/usr/bin/ld: CMakeFiles/cmTC_2d48e.dir/CheckFunctionExists.c.o: en la función `main':
+CheckFunctionExists.c:(.text+0x10): referencia a `ped_file_system_resize' sin definir
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_2d48e.dir/build.make:99: cmTC_2d48e] Error 1
+gmake[1]: se sale del directorio '/home/jgh/Documentos/pulsar_installer/build_new/CMakeFiles/CMakeScratch/TryCompile-ngoKC2'
+gmake: *** [Makefile:127: cmTC_2d48e/fast] Error 2
+
+
+

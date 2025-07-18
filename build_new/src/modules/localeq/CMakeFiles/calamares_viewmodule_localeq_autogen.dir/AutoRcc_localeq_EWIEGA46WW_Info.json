@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/localeq/calamares_viewmodule_localeq_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/localeq",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jgh/Documentos/pulsar_installer/src/modules/localeq",
+	"CMAKE_SOURCE_DIR" : "/home/jgh/Documentos/pulsar_installer",
+	"INCLUDE_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/localeq/calamares_viewmodule_localeq_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/jgh/Documentos/pulsar_installer/src/modules/localeq/Map.qml",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/localeq/Offline.qml",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/localeq/localeq.qml",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/localeq/img/locale.svg",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/localeq/img/plus.png",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/localeq/img/pin.svg",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/localeq/img/minus.png"
+	],
+	"LOCK_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/localeq/CMakeFiles/calamares_viewmodule_localeq_autogen.dir/AutoRcc_localeq_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "localeq" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_localeq.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/localeq/CMakeFiles/calamares_viewmodule_localeq_autogen.dir/AutoRcc_localeq_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/jgh/Documentos/pulsar_installer/src/modules/localeq/localeq.qrc",
+	"VERBOSITY" : 0
+}

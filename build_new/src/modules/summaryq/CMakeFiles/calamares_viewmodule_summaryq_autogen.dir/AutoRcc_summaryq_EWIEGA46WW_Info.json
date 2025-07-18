@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/summaryq/calamares_viewmodule_summaryq_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/summaryq",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jgh/Documentos/pulsar_installer/src/modules/summaryq",
+	"CMAKE_SOURCE_DIR" : "/home/jgh/Documentos/pulsar_installer",
+	"INCLUDE_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/summaryq/calamares_viewmodule_summaryq_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/jgh/Documentos/pulsar_installer/src/modules/summaryq/summaryq.qml",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/summaryq/img/lokalize.svg",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/summaryq/img/keyboard.svg"
+	],
+	"LOCK_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/summaryq/CMakeFiles/calamares_viewmodule_summaryq_autogen.dir/AutoRcc_summaryq_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "summaryq" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_summaryq.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/summaryq/CMakeFiles/calamares_viewmodule_summaryq_autogen.dir/AutoRcc_summaryq_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/jgh/Documentos/pulsar_installer/src/modules/summaryq/summaryq.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,12 @@
+Architecture: amd64
+Depends: libc6, libgcc-s1, libqt5core5a, libqt5gui5, libqt5widgets5, libqt5dbus5, libqt5network5, libqt5svg5, libqt5qml5, libqt5quick5, libqt5quickwidgets5, libkf5coreaddons5, libkf5crash5, libkf5parts5, libkf5service5, libkf5solid5, libkf5dbusaddons5, libkf5widgetsaddons5, libkf5package5, libkf5iconthemes5, libkf5i18n5, libkf5config-core5, libkf5configwidgets5, libkf5auth5, libkf5xmlgui5, libkf5kiocore5, libkf5kiogui5, libkf5kiowidgets5, libkf5kiofilewidgets5, libkf5itemviews5, libkf5completion5, libkf5guiaddons5, libkf5jobwidgets5, libkf5codecs5, libkf5windowsystem5, libkf5archive5, parted, kpartx, e2fsprogs, dosfstools, jfsutils, ntfs-3g, xfsprogs, hfsutils, hfsprogs, f2fs-tools, nilfs-tools, udftools, dmsetup, mdadm, lvm2, cryptsetup
+Description: A Linux system installer
+ Calamares is a Linux system installer, intended for Linux distributions to use on their ISOs and other bootable media to install the distribution to the end-user's computer. Calamares can also be used as an OEM configuration tool. It is modular, extensible and highly-configurable for Linux distributions from all five major Linux families.
+Homepage: https://calamares.io/
+Maintainer: calamares
+Package: calamares
+Priority: optional
+Section: admin
+Version: 3.3.15
+Installed-Size: 206676
+

@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/welcomeq",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jgh/Documentos/pulsar_installer/src/modules/welcomeq",
+	"CMAKE_SOURCE_DIR" : "/home/jgh/Documentos/pulsar_installer",
+	"INCLUDE_DIR" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/welcomeq/calamares_viewmodule_welcomeq_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/jgh/Documentos/pulsar_installer/src/modules/welcomeq/release_notes.qml",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/welcomeq/Recommended.qml",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/welcomeq/welcomeq.qml",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/welcomeq/Requirements.qml",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/welcomeq/img/chevron-left-solid.svg",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/welcomeq/img/squid.png",
+		"/home/jgh/Documentos/pulsar_installer/src/modules/welcomeq/img/language-icon-48px.png"
+	],
+	"LOCK_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/welcomeq/CMakeFiles/calamares_viewmodule_welcomeq_autogen.dir/AutoRcc_welcomeq_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "welcomeq" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_welcomeq.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jgh/Documentos/pulsar_installer/build_new/src/modules/welcomeq/CMakeFiles/calamares_viewmodule_welcomeq_autogen.dir/AutoRcc_welcomeq_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/jgh/Documentos/pulsar_installer/src/modules/welcomeq/welcomeq.qrc",
+	"VERBOSITY" : 0
+}
